@@ -1,4 +1,4 @@
-module alvianhanif/gorm
+module alvianhanif/gormigrate
 
 go 1.23.4
 

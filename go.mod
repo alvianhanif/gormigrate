@@ -1,4 +1,4 @@
-module alvianhanif/gormigrate
+module github.com/alvianhanif/gormigrate
 
 go 1.23.4
 

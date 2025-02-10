@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jinzhu/gorm"
+	"github.com/alvianhanif/gorm"
 	_ "github.com/joho/godotenv/autoload"
 	"gopkg.in/stretchr/testify.v1/assert"
 )
